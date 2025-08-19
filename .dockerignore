@@ -1,0 +1,18 @@
+# Git
+.git
+.gitignore
+
+# Virtualenv
+.venv
+*.pyc
+__pycache__
+
+# IDE
+.idea
+.vscode
+
+# Other
+.DS_Store
+*.session
+users.db
+additional_application_counter.txt
